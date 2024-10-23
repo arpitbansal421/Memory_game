@@ -74,4 +74,13 @@ body{
 
 }
 
+.btn{
+  padding: 10px;
+  border-radius: 6px;
+  background-color: red;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  font-weight: bold;
+  cursor: pointer;
+}
 

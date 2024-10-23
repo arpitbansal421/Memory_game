@@ -108,7 +108,7 @@ function App() {
       <h1>Memory Game</h1>
 
       {
-        stage==='init' && <button onClick={handleStart}>Play Game</button>
+        stage==='init' && <button className='btn' onClick={handleStart}>Play Game</button>
       }
 
       {
